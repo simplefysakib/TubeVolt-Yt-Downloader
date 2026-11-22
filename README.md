@@ -8,13 +8,7 @@ This public repository provides the original TubeVolt Android release and suppor
 
 ## Download
 
-Get the signed original APK from the [latest GitHub release](https://github.com/simplefysakib/TubeVolt-Yt-Downloader/releases/latest). The release includes a SHA-256 checksum file. Verify it after downloading both assets:
-
-```sh
-sha256sum -c TubeVolt-1.0.0.apk.sha256
-```
-
-The APK's launcher label is **TubeVolt**. It is version name `1.0.0`, version code `1`. The application identity and release signing certificate were retained for update compatibility.
+Get the signed original APK from the [latest GitHub release](https://github.com/simplefysakib/TubeVolt-Yt-Downloader/releases/latest). The APK's launcher label is **TubeVolt**. It is version name `1.0.0`, version code `1`. The application identity and release signing certificate were retained for update compatibility.
 
 ## Verification and limitations
 

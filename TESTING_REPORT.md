@@ -6,9 +6,7 @@
 
 ## Build and tests
 
-Gradle completed successfully for `testGithubDebugUnitTest` and `assembleGithubRelease`. The unit suite ran 5 tests with 0 failures, 0 errors, and 0 skipped tests. The signed release APK was produced and its package/version/launcher-label metadata and signing certificate were checked.
-
-The APK's signer certificate SHA-256 fingerprint is `13643d6ee08f125dffa1d5cfb1227fd3d3b62c6b597f0b8c2182fc74239efc24`.
+Gradle completed successfully for `testGithubDebugUnitTest` and `assembleGithubRelease`. The unit suite ran 5 tests with 0 failures, 0 errors, and 0 skipped tests. The signed release APK was produced; its package/version/launcher-label metadata and signing certificate were verified.
 
 ## Lint
 
